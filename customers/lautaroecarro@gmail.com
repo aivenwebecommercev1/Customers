@@ -1,1 +1,0 @@
-{"id":"c7d405cd-c507-432c-b459-1ac23ffd399e","name":"Lautaro","lastName":"Carro","email":"lautaroecarro@gmail.com","picture":"https://lh3.googleusercontent.com/a-/AOh14GiV6SxuGxdoLHxeEdXqCi8Gl-Krp4MFL2TBXJxVLHo=s96-c"}
