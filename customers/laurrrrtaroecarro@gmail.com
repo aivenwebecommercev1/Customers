@@ -1,1 +1,0 @@
-{"id":"10ba3863-f42b-4d1c-9713-5122ba6f7d1e","name":"Enrique","lastName":"Carro","email":"laurrrrtaroecarro@gmail.com","picture":"https://localhost:44307/https://aivenweb.com/assets/img/admin/user-photo-default.webp","birthday":"0001-02-03T00:00:00","creationDate":"2021-01-24T19:31:46.5858838+00:00","role":0,"gender":0}
