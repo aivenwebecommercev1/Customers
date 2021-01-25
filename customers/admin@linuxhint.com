@@ -1,0 +1,1 @@
+{"id":"21338014-d570-40f7-b3d4-e11e7413fc49","name":"Tom\u00E1s","lastName":"Perruno","email":"admin@linuxhint.com","picture":"https://aivenweb.com/assets/img/admin/user-photo-default.webp","birthday":"1996-08-07T00:00:00","creationDate":"2021-01-25T00:30:10.1681802-03:00","role":0,"gender":0}
