@@ -1,1 +1,0 @@
-{"id":"fdcbc660-dd36-426b-8e33-61fbd847694f","name":"Facundo","lastName":"La Rocca","email":"facu_larocca@gmail.com","picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeYlGvvUovgCnCtzDOOEE0JNGg7Uygowg2ZA\u0026usqp=CAU","creationDate":"2021-01-21T21:45:59.0956442+00:00"}
